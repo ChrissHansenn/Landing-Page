@@ -1,0 +1,62 @@
+
+ * { 
+    border: 1px dotted black;
+}  
+
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    font-family: sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #F9FAF8;
+    font-size: 18px;
+}
+
+.hero {
+    height:;
+    display: flex;
+    color: #F9FAF8;
+    background-color: #1F2937;
+    padding: 2em 100px;
+}
+
+.hero-left, .hero-right {
+    height: 100%;
+    width: 100%;
+    border: dotted red 1px;
+}
+
+.header-logo {
+    font-size: 24px;
+}
+
+.awesome-text {
+    font-size: 48px;
+    font-weight: bolder;
+
+}
+
+.placeholder {
+    background-color: rgb(147, 151, 167);
+}
+
+.random-info {
+    height: 100px;
+}
+
+.quote {
+    height: 100px;
+}
+
+.action-call {
+    height: 100px;
+}
+
+.footer {
+    height: 100px;
+}
+
