@@ -175,6 +175,7 @@ a {
     padding: 5%;
     gap: 30%;
     width: 65%;
+    justify-content: center;
 
 }
 
